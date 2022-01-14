@@ -1,0 +1,4 @@
+github.com/mgutz/minimist v0.0.0-20151219120022-39eb8cf573ca h1:pXeroI6JhWPe9YJHw65Vs7yLhgWn3mY1+jOq8MtmqY0=
+github.com/mgutz/minimist v0.0.0-20151219120022-39eb8cf573ca/go.mod h1:CemPqfWh2DIz3wQET7z9z6N2niRz/HF2+cM/lIm3ieY=
+github.com/mgutz/to v1.0.0 h1:rMavw/T9DWwmjl7Vi/xrPjFu+yoN555DVDqJbjGmwDQ=
+github.com/mgutz/to v1.0.0/go.mod h1:frEfNDHS+97/hJI/aqaT4Rm+utwYs1T7NLNUjxLk+N8=
